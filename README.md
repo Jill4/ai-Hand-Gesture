@@ -59,9 +59,9 @@ The [setup instructions](https://docs.edgeimpulse.com/docs/development-platforms
 
 ## 3. Acquiring data and training 
     
-    You can start by collecting data right through your phone! When scanning the QR provided, it will take you to three options. From there you will press collect images and after labeling the data, it is now ready be trained!
-    
-    If the phone option doesn't work for you, it can also be done through a computer, any device with a data forwarder, or you can input data if you already have any. 
+You can start by collecting data right through your phone! When scanning the QR provided, it will take you to three options. From there you will press collect images and after labeling the data, it is now ready be trained!
+
+If the phone option doesn't work for you, it can also be done through a computer, any device with a data forwarder, or you can input data if you already have any. 
     
     
     
