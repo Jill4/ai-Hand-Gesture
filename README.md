@@ -1,7 +1,7 @@
 # ai-Hand-Gesture
 ## Problem Overview
 
-Many sought to believe a single camera wouldn't be as functional as depth aware cameras. However, using a simple 2D camera on an evalation board for the Renesas RZ/V2L (seen below), we dive into the functionality of a 2D camera by making it detect [hand gestures]().
+Many sought to believe a single camera wouldn't be as functional as depth aware cameras. However, using a simple 2D camera on an evalation board for the Renesas RZ/V2L (seen below), we dive into the functionality of a 2D camera by making it detect [hand gestures](rz-v2l-evk_on_desk.jpg)
 
 
 ## Hardware Requirements
