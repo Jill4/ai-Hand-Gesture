@@ -118,7 +118,7 @@ If the phone option doesn't work for you, it can also be done through a computer
 Here are the Hand Gestures to try:
 - Horns
 - Index finger
-- Two finngers
+- Two fingers
 - superb
 
 After collecting the data, be sure to look if your train/Test Split is balanced. In this case it has a 82%/18% split. 
